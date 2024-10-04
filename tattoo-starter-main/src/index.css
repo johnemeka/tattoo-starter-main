@@ -42,4 +42,5 @@
   .btn-link {
     @apply px-0 h-auto text-dark hover:text-dark/90 transition-all;
   }
+
 }
