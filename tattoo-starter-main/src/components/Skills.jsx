@@ -61,7 +61,7 @@ const Skills = () => {
   initial='hidden'
   whileInView={'show'}
   viewport={{once:false, amount:0.1}}
-  ref={ref} className='section font-primary' id='Articles'>
+  ref={ref} className='section font-primary' id='Article'>
     <div className="container mx-auto">
       <div className="flex flex-col justify-between items-center gap-y-6 xl:flex-row">
         {/* circular item */}
